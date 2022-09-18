@@ -1,4 +1,4 @@
-import "./style.css";
+//import "./style.css";
 import { MapControls } from "three/examples/jsm/controls/OrbitControls";
 import * as THREE from "three";
 import { Vector3 } from "three";
